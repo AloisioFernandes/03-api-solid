@@ -3,3 +3,4 @@ build
 .env
 /generated/prisma
 requests.http
+coverage
